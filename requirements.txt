@@ -11,7 +11,7 @@ mkdocs-bootswatch==0.4.0
 mkdocs-material==1.8.0
 packaging==16.8
 Pygments==2.2.0
-pymdown-extensions==3.5
+pymdown-extensions==10.16.1
 pyparsing==2.1.10
 PyYAML==3.12
 six==1.10.0
